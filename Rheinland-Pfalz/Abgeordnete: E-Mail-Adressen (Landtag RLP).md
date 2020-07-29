@@ -101,9 +101,8 @@ Matthias.Joa@gmail.com
 Juergen.Klein@afd.landtag.rlp.de  
     
       
-# Linke ([Massenmail](mailto:brigitte.freihold@bundestag.de;fraktion@linksfraktion.de;alexander.ulrich@bundestag.de;katrin.werner@bundestag.de;) [Blindkopie](mailto:brigitte.freihold@bundestag.de;fraktion@linksfraktion.de;alexander.ulrich@bundestag.de;katrin.werner@bundestag.de;))    
+# Linke ([Massenmail](mailto:brigitte.freihold@bundestag.de;alexander.ulrich@bundestag.de;katrin.werner@bundestag.de;) [Blindkopie](mailto:brigitte.freihold@bundestag.de;alexander.ulrich@bundestag.de;katrin.werner@bundestag.de;))    
     
 brigitte.freihold@bundestag.de  
-fraktion@linksfraktion.de  
 alexander.ulrich@bundestag.de  
 katrin.werner@bundestag.de  
