@@ -1,7 +1,7 @@
-Stand: 29.07.2020; Wahlperiode 16 https://de.wikipedia.org/wiki/Liste_der_Mitglieder_des_Landtags_von_Baden-W%C3%BCrttemberg_(16._Wahlperiode)  
-Aktualisierung notwendig: Sonntag, 14. März 2021 (Wahlperiode 17).
+Stand: 29.07.2020; [Wahlperiode 16](https://de.wikipedia.org/wiki/Liste_der_Mitglieder_des_Landtags_von_Baden-W%C3%BCrttemberg_(16._Wahlperiode))
+Aktualisierung notwendig: Sonntag, 14. März 2021 (Wahlperiode 17).  
 
-E-Mail-Adressen von: https://www.landtag-bw.de/home/der-landtag/abgeordnete.html
+E-Mail-Adressen von: https://www.landtag-bw.de/home/der-landtag/abgeordnete.html  
 Direktlink: https://www.landtag-bw.de/files/live/sites/LTBW/files/dokumente/abgeordnete/E-Mail%20Adressen%20Abgeordnete%20WP16.xlsx
   
   
