@@ -41,7 +41,7 @@ mail@arne-platzbecker.de
 buero@pochnicht.de  
 anja.quast@spd-fraktion-hamburg.de  
 mail@marc-schemmel.de  
-britta.schlage@spd-fraktion-hamburg,de  
+britta.schlage@spd-fraktion-hamburg.de  
 buero@hansjoerg-schmidt.de  
 abgeordnetenbuero@frank-schmitt.info  
 Markus.C.Schreiber@googlemail.com  
