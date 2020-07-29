@@ -103,7 +103,7 @@ Guido.Wolf@cdu.landtag-bw.de
 Karl.Zimmermann@cdu.landtag-bw.de  
     
     
-# CDU:  
+# SPD:  
     
 Sascha.Binder@spd.landtag-bw.de  
 Daniel.Born@spd.landtag-bw.de  
@@ -164,7 +164,7 @@ Erik.Schweickert@fdp.landtag-bw.de
 Nico.Weinmann@fdp.landtag-bw.de  
     
     
-# Fraktionslos  
+# Fraktionslos:  
     
 Heinrich.Fiechtner@fraktionslos.landtag-bw.de  
 Wolfgang.Gedeon@fraktionslos.landtag-bw.de  
