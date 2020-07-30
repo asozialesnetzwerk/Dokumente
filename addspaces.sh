@@ -1,1 +1,1 @@
-sed 's/$/  /' $1 > SPACES.md
+sed 's/$/  /' "$1" > SPACES.md

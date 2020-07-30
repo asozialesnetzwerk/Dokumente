@@ -1,1 +1,1 @@
-sed 's/mailto://g' $1 > NOMAILTO.txt
+sed 's/mailto://g' "$1" > NOMAILTO.txt

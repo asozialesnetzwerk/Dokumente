@@ -5,10 +5,10 @@
 
 file="MAILTO.md"
 
-tr '\n' ';' < $1 > $file
+tr '\n' ';' < "$1" > $file
 sed -i '1s/^/([Massenmail](mailto:/' $file
 sed -i '$s/$/) [Blindkopie](mailto:/' $file
 
-tr '\n' ';' < $1 >> $file
+tr '\n' ';' < "$1" >> $file
 sed -i '$s/$/))/' $file
 
