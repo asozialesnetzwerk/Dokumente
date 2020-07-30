@@ -10,8 +10,6 @@ EOF
 BACKTITLE="ATA-E-Mail-Master-Skript"
 
 function add_acc(){
-	
-	#ifnotexist
 	MCFG="$HOME/.msmtprc"
 	if [ ! -f "$MCFG" ]; then
         newcfg="true"
