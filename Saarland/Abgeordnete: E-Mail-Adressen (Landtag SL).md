@@ -1,4 +1,4 @@
-Stand: 30.07.2020; [Wahlperiode 16](https://de.wikipedia.org/wiki/Liste_der_Mitglieder_des_Landtages_des_Saarlandes_(16._Wahlperiode))    
+Stand: 30. Juli 2020; [Wahlperiode 16](https://de.wikipedia.org/wiki/Liste_der_Mitglieder_des_Landtages_des_Saarlandes_(16._Wahlperiode))    
 Aktualisierung notwendig: 2022 (Wahlperiode 17).      
     
 E-Mail-Adressen von: -     
