@@ -121,7 +121,7 @@ roland.woeller@slt.sachsen.de
 buergerbuero.woeller@t-online.de  
     
     
-# FDP ([Massenmail](mailto:info@fdp-sachsen.de;presse@fdp-sachsen.de;office@fdp-sachsen.de ;) [Blindkopie](mailto:info@fdp-sachsen.de;presse@fdp-sachsen.de;office@fdp-sachsen.de ;))  
+# FDP ([Massenmail](mailto:info@fdp-sachsen.de;presse@fdp-sachsen.de;office@fdp-sachsen.de;) [Blindkopie](mailto:info@fdp-sachsen.de;presse@fdp-sachsen.de;office@fdp-sachsen.de;))  
       
 info@fdp-sachsen.de  
 presse@fdp-sachsen.de  
@@ -160,7 +160,7 @@ chemnitz@volkmar-zschocke.de
 info@gruenes-buergerbuero-erzgebirge.de  
     
     
-# SPD ([Massenmail](mailto:buergerbuero@dirk-panter.de;post@sabine-friedel.de;buero@henning-homann.de;politik.offen@web.de;simone.lang@slt.sachsen.de ;info@holger-mann.de;info@suedpol-dresden.de;frank.richter@slt.sachsen.de;volkmar.winkler@slt.sachsen.de;) [Blindkopie](mailto:buergerbuero@dirk-panter.de;post@sabine-friedel.de;buero@henning-homann.de;politik.offen@web.de;simone.lang@slt.sachsen.de ;info@holger-mann.de;info@suedpol-dresden.de;frank.richter@slt.sachsen.de;volkmar.winkler@slt.sachsen.de;))  
+# SPD ([Massenmail](mailto:buergerbuero@dirk-panter.de;post@sabine-friedel.de;buero@henning-homann.de;politik.offen@web.de;simone.lang@slt.sachsen.de;info@holger-mann.de;info@suedpol-dresden.de;frank.richter@slt.sachsen.de;volkmar.winkler@slt.sachsen.de;) [Blindkopie](mailto:buergerbuero@dirk-panter.de;post@sabine-friedel.de;buero@henning-homann.de;politik.offen@web.de;simone.lang@slt.sachsen.de;info@holger-mann.de;info@suedpol-dresden.de;frank.richter@slt.sachsen.de;volkmar.winkler@slt.sachsen.de;))  
     
 buergerbuero@dirk-panter.de  
 post@sabine-friedel.de  
