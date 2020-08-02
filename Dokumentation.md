@@ -63,8 +63,8 @@ Wir haben auch lange darüber diskutiert ob wir auch E-Mails an die AfD schicken
 3. Wir haben uns in jedem Text von politischen Inhalten differenziert und klar gemacht, dass wir nicht unbedingt die gleiche Meinung haben.
 
 
-## Rückmeldungen der Politiker und der Medien (Screenshots) sowie sonstige Bilder und Videos sind unter 
-
+## Rückmeldungen der Politiker und der Medien (Screenshots) sowie sonstige Bilder und Videos:
+![#ag-anti-droh-mails - Asoziales Netzwerk mit einer Einstellung in 3D! - Discord - 1](file:///C:/Users/h05ha/Documents/Asoziales_Netzwerk/ATA_Anti-Droh-Mails/Bildergalerie/#ag-anti-droh-mails - Asoziales Netzwerk mit einer Einstellung in 3D! - Discord - 1.png)
 
 
 
