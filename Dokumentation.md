@@ -72,4 +72,4 @@ Wir haben auch lange darüber diskutiert ob wir auch E-Mails an die AfD schicken
 
 
 
-## Dokumente, die zu der Aktion erstellt wurden, sind unter https://github.com/asozialesnetzwerk/Dokumente öffentlich gemacht worden und einsehbar.
+## Dokumente, die zu der Aktion erstellt wurden, sind unter https://github.com/asozialesnetzwerk/Dokumente gesammelt worden und öffentlich einsehbar.
