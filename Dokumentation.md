@@ -63,9 +63,10 @@ Wir haben auch lange darüber diskutiert ob wir auch E-Mails an die AfD schicken
 
 ## Rückmeldungen der Politiker und der Medien (Screenshots):
 
+
 ## Bildergalerie 
 
-
+![Testbild](https://upload.wikimedia.org/wikipedia/en/e/ed/Nyan_cat_250px_frame.PNG)
 
 
 
