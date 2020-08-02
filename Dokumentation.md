@@ -6,7 +6,7 @@
 
 Das System ist asozial und es gibt nichts soziales im Asozialen. Folglich muss etwas wirklich Soziales asozial genannt werden. Das Asoziale Netzwerk ist eine Anti-Terror-Organisation, gegen den Terror der Schulen und Fabriken, der Medien und der Regierung, der Leitkultur und des Lobbyismus und der Wirtschaft, gegen den Terror des real existierenden Asozialismus. Es gibt keine Hierarchien und jedes Mitglied darf sich einen natürlich bedeutungslosen Rang oder Titel aussuchen.
 Das Ganze basiert auf Marc-Uwe Klings Känguru-Reihe und breitet sich schon seit Veröffentlichung dieser Reihe, vor allem in den Sozialen Netzwerken, immer weiter aus. 
-Mehr Infos gibt es im [Känguru-Wiki](https://die-kaenguru-chroniken.fandom.com/wiki/Das_Kaenguru_Wiki "Link zum Känguru-Wiki") und auf der [Website des Asozialen Netzwerks](https://asoziales-netzwerk.net/ "Link zur Website des Asozialen Netzwerks"), die es vor allem zur Vernetzung einzelner Gruppen gibt. Die Größe des Asozialen Netzwerkes lässt sich nicht genau bestimmen, es besteht aus sehr vielen Gruppierungen die unabhängig voneinander operieren.
+Mehr Infos gibt es im Känguru Wiki ( https://die-kaenguru-chroniken.fandom.com/wiki/Das_Kaenguru_Wiki ) und auf der Website des Asozialen Netzwerks ( https://asoziales-netzwerk.net/ ), die es vor allem zur Vernetzung einzelner Gruppen gibt. Die Größe des Asozialen Netzwerkes lässt sich nicht genau bestimmen, es besteht aus sehr vielen Gruppierungen die unabhängig voneinander operieren.
 
 
 ## Anti-Terror-Anschläge:
@@ -41,18 +41,18 @@ Das Abschicken der Mails hatten wir eigentlich auf 15:00 Uhr terminiert, jedoch 
 Die Texte sollten den Politikern Dank ausdrücken, sie für ihre Arbeit loben.
 Hier ein Beispiel:
 
->„Sehr geehrtes Mitglied des Landtages/Bundestages,
->
->Wir als das Asoziale Netzwerk möchten Ihnen hiermit danken, dass Sie sich täglich für unsere Demokratie, die Interessen Ihrer Wähler und noch viel mehr aufopfern, und dafür sorgen, dass unsere Gesellschaft weiterhin funktioniert, egal, welche unterschiedlichen oder gar gegensätzlichen Meinungen wir vertreten.
->Vielen Dank und haben Sie noch einen schönen Tag. 
->
->
->Vielen Dank, dass Sie sich diese Anti-Droh-Mail des Asozialen Netzwerkes durchgelesen haben!
->
->--------------------------------------------------------------------------------------------
->
->Wir sind das Asoziale Netzwerk und wollen am heutigen Tag der Freundschaft eine Aktion gegen Hass in der Gesellschaft stellen. Wir wollen das ALLE Liebe bekommen auch die Politiker. Wir wollen Frieden, Freude und Eierkuchen für alle. Egal wie wenig wir eventuell einer Meinung sind. Deswegen schicken wir an Landtagsabgeordnete und an Bundestagsabgeordnete Anti-Droh-Mails im Kontrast zu den leider viel zu weit verbreiten Droh-Mails. Damit unser Thema auch in der Bevölkerung anklang findet, hoffen wir sehr auf die Unterstützung der Medien. Bei Fragen sind wir den ganzen Tag unter derproduzentdesasozialennetzwerkes@web.de erreichbar.
->Vielen Dank“
+„Sehr geehrtes Mitglied des Landtages/Bundestages,
+
+Wir als das Asoziale Netzwerk möchten Ihnen hiermit danken, dass Sie sich täglich für unsere Demokratie, die Interessen Ihrer Wähler und noch viel mehr aufopfern, und dafür sorgen, dass unsere Gesellschaft weiterhin funktioniert, egal, welche unterschiedlichen oder gar gegensätzlichen Meinungen wir vertreten.
+Vielen Dank und haben Sie noch einen schönen Tag. 
+
+
+Vielen Dank, dass Sie sich diese Anti-Droh-Mail des Asozialen Netzwerkes durchgelesen haben!
+
+--------------------------------------------------------------------------------------------
+
+Wir sind das Asoziale Netzwerk und wollen am heutigen Tag der Freundschaft eine Aktion gegen Hass in der Gesellschaft stellen. Wir wollen das ALLE Liebe bekommen auch die Politiker. Wir wollen Frieden, Freude und Eierkuchen für alle. Egal wie wenig wir eventuell einer Meinung sind. Deswegen schicken wir an Landtagsabgeordnete und an Bundestagsabgeordnete Anti-Droh-Mails im Kontrast zu den leider viel zu weit verbreiten Droh-Mails. Damit unser Thema auch in der Bevölkerung anklang findet, hoffen wir sehr auf die Unterstützung der Medien. Bei Fragen sind wir den ganzen Tag unter derproduzentdesasozialennetzwerkes@web.de erreichbar.
+Vielen Dank“
 
 
 ## Die Sache mit der AfD:
@@ -63,13 +63,12 @@ Wir haben auch lange darüber diskutiert ob wir auch E-Mails an die AfD schicken
 3. Wir haben uns in jedem Text von politischen Inhalten differenziert und klar gemacht, dass wir nicht unbedingt die gleiche Meinung haben.
 
 
-## Rückmeldungen der Politiker und der Medien (Screenshots):
-
-
-## Bildergalerie
+## Rückmeldungen der Politiker und der Medien (Screenshots) sowie sonstige Bilder und Videos sind unter 
 
 
 
 
 
-## Dokumente, die zu der Aktion erstellt wurden, sind unter https://github.com/asozialesnetzwerk/Dokumente öffentlich gemacht worden und einsehbar.
+
+
+## Dokumente, die zu der Aktion erstellt wurden, sind unter https://github.com/asozialesnetzwerk/Dokumente gesammelt worden und öffentlich einsehbar.
