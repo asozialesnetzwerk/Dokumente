@@ -64,7 +64,6 @@ Wir haben auch lange darüber diskutiert ob wir auch E-Mails an die AfD schicken
 
 
 ## Rückmeldungen der Politiker und der Medien (Screenshots) sowie sonstige Bilder und Videos:
-![#ag-anti-droh-mails - Asoziales Netzwerk mit einer Einstellung in 3D! - Discord - 1](file:///C:/Users/h05ha/Documents/Asoziales_Netzwerk/ATA_Anti-Droh-Mails/Bildergalerie/#ag-anti-droh-mails - Asoziales Netzwerk mit einer Einstellung in 3D! - Discord - 1.png)
 
 
 
