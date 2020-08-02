@@ -63,6 +63,9 @@ Wir haben auch lange darüber diskutiert ob wir auch E-Mails an die AfD schicken
 3. Wir haben uns in jedem Text von politischen Inhalten differenziert und klar gemacht, dass wir nicht unbedingt die gleiche Meinung haben.
 
 
+## Dokumente, die zu der Aktion erstellt wurden, sind unter https://github.com/asozialesnetzwerk/Dokumente gesammelt worden und öffentlich einsehbar.
+
+
 ## Rückmeldungen der Politiker und der Medien (Screenshots) sowie sonstige Bilder und Videos:
 ![#ag-anti-droh-mails - Asoziales Netzwerk mit einer Einstellung in 3D! - Discord - 1](https://raw.githubusercontent.com/asozialesnetzwerk/Dokumente/master/Bildergalerie/%23ag-anti-droh-mails%20-%20Asoziales%20Netzwerk%20mit%20einer%20Einstellung%20in%203D!%20-%20Discord%20-%201.png)
 ![#ag-anti-droh-mails - Asoziales Netzwerk mit einer Einstellung in 3D! - Discord - 2](https://raw.githubusercontent.com/asozialesnetzwerk/Dokumente/master/Bildergalerie/%23ag-anti-droh-mails%20-%20Asoziales%20Netzwerk%20mit%20einer%20Einstellung%20in%203D!%20-%20Discord%20-%202.png)
@@ -74,10 +77,3 @@ Wir haben auch lange darüber diskutiert ob wir auch E-Mails an die AfD schicken
 ![Martin Habersaat auf Twitter - Habe heute eine Anti-Droh-Mail des Asozialen Netzwerks erhalten](https://raw.githubusercontent.com/asozialesnetzwerk/Dokumente/master/Bildergalerie/Martin%20Habersaat%20auf%20Twitter%20-%20Habe%20heute%20eine%20Anti-Droh-Mail%20des%20Asozialen%20Netzwerks%20erhalten.png)
 ![Presseerklärung by Joshix#7034 at master · asozialesnetzwerk_Dokumente.png](https://raw.githubusercontent.com/asozialesnetzwerk/Dokumente/master/Bildergalerie/Presseerkl%C3%A4rung%20by%20Joshix%237034%20at%20master%20%C2%B7%20asozialesnetzwerk_Dokumente.png.png)
 ![Text3 by Luppi#3513 at master · asozialesnetzwerk_Dokumente](https://raw.githubusercontent.com/asozialesnetzwerk/Dokumente/master/Bildergalerie/Text3%20by%20Luppi%233513%20at%20master%20%C2%B7%20asozialesnetzwerk_Dokumente.png)
-
-
-
-
-
-
-## Dokumente, die zu der Aktion erstellt wurden, sind unter https://github.com/asozialesnetzwerk/Dokumente gesammelt worden und öffentlich einsehbar.
