@@ -15,7 +15,7 @@ Das Asoziale Netzwerk verübt in unregelmäßigen Abständen Anti-Terror-Anschl�
 
 >„Wenn unser Ziel eine witzigere Welt ist, muss auch unser Widerstand schon witzig sein!“
 
-~ Das Känguru in der „Känguru-Offenbarung“
+~ Das Känguru in „Die Känguru-Offenbarung“
 
 
 
