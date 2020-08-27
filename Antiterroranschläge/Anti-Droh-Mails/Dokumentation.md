@@ -41,18 +41,18 @@ Das Abschicken der Mails hatten wir eigentlich auf 15:00 Uhr terminiert, jedoch 
 Die Texte sollten den Politikern Dank ausdrücken, sie für ihre Arbeit loben.
 Hier ein Beispiel:
 
-„Sehr geehrtes Mitglied des Landtages/Bundestages,
-
-Wir als das Asoziale Netzwerk möchten Ihnen hiermit danken, dass Sie sich täglich für unsere Demokratie, die Interessen Ihrer Wähler und noch viel mehr aufopfern, und dafür sorgen, dass unsere Gesellschaft weiterhin funktioniert, egal, welche unterschiedlichen oder gar gegensätzlichen Meinungen wir vertreten.
-Vielen Dank und haben Sie noch einen schönen Tag. 
-
-
-Vielen Dank, dass Sie sich diese Anti-Droh-Mail des Asozialen Netzwerkes durchgelesen haben!
-
---------------------------------------------------------------------------------------------
-
-Wir sind das Asoziale Netzwerk und wollen am heutigen Tag der Freundschaft eine Aktion gegen Hass in der Gesellschaft stellen. Wir wollen das ALLE Liebe bekommen auch die Politiker. Wir wollen Frieden, Freude und Eierkuchen für alle. Egal wie wenig wir eventuell einer Meinung sind. Deswegen schicken wir an Landtagsabgeordnete und an Bundestagsabgeordnete Anti-Droh-Mails im Kontrast zu den leider viel zu weit verbreiten Droh-Mails. Damit unser Thema auch in der Bevölkerung anklang findet, hoffen wir sehr auf die Unterstützung der Medien. Bei Fragen sind wir den ganzen Tag unter derproduzentdesasozialennetzwerkes@web.de erreichbar.
-Vielen Dank“
+>Sehr geehrtes Mitglied des Landtages/Bundestages,
+>
+>Wir als das Asoziale Netzwerk möchten Ihnen hiermit danken, dass Sie sich täglich für unsere Demokratie, die Interessen Ihrer Wähler und noch viel mehr aufopfern, und dafür sorgen, dass unsere Gesellschaft weiterhin funktioniert, egal, welche unterschiedlichen oder gar gegensätzlichen Meinungen wir vertreten.
+>Vielen Dank und haben Sie noch einen schönen Tag. 
+>
+>
+>Vielen Dank, dass Sie sich diese Anti-Droh-Mail des Asozialen Netzwerkes durchgelesen haben!
+>
+>--------------------------------------------------------------------------------------------
+>
+>Wir sind das Asoziale Netzwerk und wollen am heutigen Tag der Freundschaft eine Aktion gegen Hass in der Gesellschaft stellen. Wir wollen das ALLE Liebe bekommen auch die Politiker. Wir wollen Frieden, Freude und Eierkuchen für alle. Egal wie wenig wir eventuell einer Meinung sind. Deswegen schicken wir an Landtagsabgeordnete und an Bundestagsabgeordnete Anti-Droh-Mails im Kontrast zu den leider viel zu weit verbreiten Droh-Mails. Damit unser Thema auch in der Bevölkerung anklang findet, hoffen wir sehr auf die Unterstützung der Medien. Bei Fragen sind wir den ganzen Tag unter derproduzentdesasozialennetzwerkes@web.de erreichbar.
+>Vielen Dank
 
 
 ## Die Sache mit der AfD:
