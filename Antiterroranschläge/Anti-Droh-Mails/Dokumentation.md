@@ -13,9 +13,9 @@ Mehr Infos gibt es im Känguru Wiki ( https://die-kaenguru-chroniken.fandom.com/
 
 Das Asoziale Netzwerk verübt in unregelmäßigen Abständen Anti-Terror-Anschläge. Diese können von einem oder mehreren Mitgliedern ausgeführt und benannt werden, richten sich gegen den real existierenden Asozialismus und sollten sich auch niemals auf dessen Niveau herablassen:
 
->„Wenn unser Ziel eine witzigere Welt ist, muss auch unser Widerstand schon witzig sein!“
+>Wenn unser Ziel eine witzigere Welt ist, muss auch unser Widerstand schon witzig sein!
 
-~ Das Känguru in „Die Känguru-Offenbarung“
+~ Das Känguru in der „Känguru-Offenbarung“
 
 
 
